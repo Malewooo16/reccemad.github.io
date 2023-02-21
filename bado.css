@@ -156,3 +156,25 @@ h2:after{
 
  }
 
+ @media screen and (max-width:500px){
+  .leg{
+    position: relative;
+    top: 270%;
+    background: rgb(10, 189, 202);
+  }
+
+  .img{
+    position: relative;
+    vertical-align: top;
+    top: 45px;
+
+    
+    width: 200px;
+  }
+
+  .addres{
+    position: relative;
+    top: -35px;
+ }
+ }
+
